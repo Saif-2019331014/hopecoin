@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "a simple blockchain",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "start"
   },
   "author": "Saif",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
