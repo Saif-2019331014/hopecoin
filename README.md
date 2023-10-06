@@ -1,2 +1,3 @@
 # hopecoin
-A simple blockchain made for practice purpose
+
+A simple blockchain made for practice
