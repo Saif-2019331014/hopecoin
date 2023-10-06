@@ -1,0 +1,11 @@
+{
+  "name": "hopecoin",
+  "version": "1.0.0",
+  "description": "a simple blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Saif",
+  "license": "ISC"
+}
